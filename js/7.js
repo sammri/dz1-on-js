@@ -1,2 +1,3 @@
-let a = prompt('Как ваше имя')
-alert(`Ваше имя - ${a}`);
+"use strict";
+let userName = prompt('Як ваше імя?')
+alert(`Привіт - ${a}`);
